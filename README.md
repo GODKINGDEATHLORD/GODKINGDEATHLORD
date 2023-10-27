@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GODKINGDEATHLORD/GODKINGDEATHLORD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/8d2d5d93-bcdc-475b-a7ff-429e44107491
+
