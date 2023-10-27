@@ -4,7 +4,8 @@ https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/8d2d5d93-b
 - 🔭 I’m currently working on ...![linkdln](https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/6c529fa7-38f0-4ea9-92c8-dba737e72750)
 ![instagram](https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/59fa5b27-b26c-4f6e-8a92-e65ffad746c3)
 ![facebokk](https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/9dfdf74e-8588-4825-b2f2-32877a0804df)
-![Twitter](https://icons8.com/icon/z6gJ8gyjaapn/twitter--v2)
+![twitter](https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/98f77dbf-dea0-423b-9608-1bbf68670a3e)
+
 ![gmail](https://github.com/GODKINGDEATHLORD/GODKINGDEATHLORD/assets/107386231/7fcf86ca-b6a1-4da0-9cf4-219bdfe3d32d)
 
 - 🌱 I’m currently learning ...
